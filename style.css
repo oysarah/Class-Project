@@ -10,3 +10,19 @@ table{
     background-color: rgb(255, 255, 255);
     padding: 10px;
 }
+body{
+    background-color: #e8fff7; 
+    font-family:poppins;
+    font-weight: 300; 
+    width:99vw;
+}
+/* a:hover{
+    color: red;
+    text-decoration: none;
+} */
+
+#mynav{
+    background-color: #cce0d9;
+    padding: 8px; 
+    margin-bottom: 8px;
+}
